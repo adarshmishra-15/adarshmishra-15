@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Java
+- 🤔 I’m looking for help with DSA
+- 📫 How to reach me: mishradarsh15@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: There are 26 alphabets in Engilsh.
+
+
 <!--
 **adarshmishra-15/adarshmishra-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
