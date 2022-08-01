@@ -4,7 +4,6 @@
 - 🤔 I’m looking for help with DSA
 - 📫 How to reach me: mishradarsh15@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: There are 26 alphabets in Engilsh.
 
 
 <!--
